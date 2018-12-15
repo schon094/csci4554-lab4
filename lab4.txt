@@ -1,0 +1,29 @@
+results
+
+Task 1
+used lab4.java to generate safe prime and generator
+
+  prime: 524156483
+
+  generator: 296483653
+
+i chose secret key a = 101
+public key A = g ^ a mod p = 357328849
+
+i received public key B = 259014010
+
+key AB = B ^ a mod p = 51934509 (confirmed the same)
+
+
+Round 2
+other group (Prince N)
+
+  prime: 335525699
+
+  generator: 276894240
+
+my public key = 136586502
+
+received public key: 256080354
+
+key AB = 49817477 (confirmed the same)

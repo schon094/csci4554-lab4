@@ -16,7 +16,7 @@ key AB = B ^ a mod p = 51934509 (confirmed the same)
 
 
 Round 2
-other group (Prince N)
+other group (Prince N)  561
 
   prime: 335525699
 
@@ -27,3 +27,12 @@ my public key = 136586502
 received public key: 256080354
 
 key AB = 49817477 (confirmed the same)
+
+Task 2
+
+lab2part2.java uses baby-step giant-step to decipher keys
+enter a prime, the generator, and the public keys
+
+keys broke:
+  DC,SP + AK,KZ
+  AK,KZ secret number: 2345
